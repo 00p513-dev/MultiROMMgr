@@ -154,7 +154,7 @@
         },
         {
             "names": [ "a0001", "one", "bacon", "one a0001" ],
-            "manifest_url": "http://kingbabasula.altervista.org/multirom/manifest.json",
+            "manifest_url": "http://00p513-dev.github.io/bacon/manifest.json",
             "check_gpg": false,
             "ubuntu_touch": {
                 "enabled": true,
